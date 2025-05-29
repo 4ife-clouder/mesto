@@ -32,8 +32,6 @@
 ## Установка и запуск проекта
 
 ```bash
-# Клонирование репозитория
-git clone https://github.com/Vladislav-Filatov/mesto.git
 
 # Установка зависимостей
 npm install
