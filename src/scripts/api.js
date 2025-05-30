@@ -1,10 +1,11 @@
 const config = {
   baseUrl: 'https://nomoreparties.co/v1/apf-cohort-202',
   headers: {
-    authorization: 'b72e0f31-e73d-4014-9c14-b2954696d6ec',
+    authorization: 'f83e0931-307a-47f7-91bb-211a507fdf7e',
     'Content-Type': 'application/json'
   }
 }
+
 
 export const getInitialCards = () => {
   return fetch(`${config.baseUrl}/cards`, {
