@@ -9,16 +9,17 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vladislav-Filatov/mesto.git"
+    "url": "git+https://github.com/4ife-clouder/mesto.git"
   },
-  "author": "Vladislav Filatov",
+  "author": "4ife",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vladislav-Filatov/mesto/issues"
+    "url": "https://github.com/4ife-clouder/mesto/issues"
   },
-  "homepage": "https://github.com/Vladislav-Filatov/mesto#readme",
+  "homepage": "https://github.com/4ife-clouder/mesto#readme",
   "devDependencies": {
     "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.26.9",
